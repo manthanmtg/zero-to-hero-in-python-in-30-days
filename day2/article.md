@@ -1,0 +1,2 @@
+#### Values
+A value is one of the basic things a program works with, like a letter or a number. Values are one of the important concept which most the people ignore while learning a language. Value represents something in the real world. For example, consider a program to add two numbers. For that we need two numbers right. So those two numbers are the values which are needed to compute the result. Values can be of any type, integer, string, floating point, complex, character or any other. 2, 2.14, True, "Hello" are some of the examples of values.

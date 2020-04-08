@@ -1,0 +1,5 @@
+print("Hello", "World")
+print("1 + 2 =", 1+2)
+print(2, 3, 4, 5, 6, 7)
+print("Manthan", "B", "Y")
+print(3.12, 5.67, 8.79)

@@ -1,1 +1,2 @@
 # zero-to-hero-in-python-in-30-days
+This repository contains all the source code and other files which are prepared during the writing of series of articles under name **Zero To Hero in Python in 30 days**

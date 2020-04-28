@@ -1,0 +1,5 @@
+Manthan      manthan.gowda@gmail.com
+Sheldon      sheldoncooper@example.com
+Amy          amy_fowler@example.com
+Leonard      leonard@hofs.com
+Penny        penny@example.com
